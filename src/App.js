@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Test yml lagi
+          Learn React Test yml lagi... bisa yokkk!
         </a>
       </header>
     </div>
