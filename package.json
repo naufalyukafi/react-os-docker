@@ -2,6 +2,7 @@
   "name": "react-os",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://objectstorage.ap-sydney-1.oraclecloud.com/n/sdais1o4jvlc/b/react-bucket/o/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
