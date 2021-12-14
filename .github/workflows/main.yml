@@ -1,4 +1,4 @@
-name: Hosting Static React
+name: Hosting Static React App
 
 on:
   push:
